@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mergebooks", "mergebooks.vcxproj", "{4377D949-2455-482A-ABC5-A7BFD2695154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4377D949-2455-482A-ABC5-A7BFD2695154}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4377D949-2455-482A-ABC5-A7BFD2695154}.Debug|Win32.Build.0 = Debug|Win32
+		{4377D949-2455-482A-ABC5-A7BFD2695154}.Release|Win32.ActiveCfg = Release|Win32
+		{4377D949-2455-482A-ABC5-A7BFD2695154}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
